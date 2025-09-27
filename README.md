@@ -6,6 +6,44 @@ A step-by-step guide to learn React from **beginner to advanced**.
 
 ---
 
+## ⚡ Getting Started with React
+
+You can create a new React project using one of the following methods:
+
+### 1. Using **Vite** (Recommended – Fast & Modern)
+
+```bash
+# Create project using Vite
+npm create vite@latest my-app
+
+# Select framework
+React
+
+# Select Variant
+TypeScript
+
+# Remaining select default
+
+# Choose React or React + TypeScript
+cd my-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+### 2. Using **Create React App** (Older but still works)
+
+```bash
+npx create-react-app my-app
+cd my-app
+npm start
+```
+
+---
+
 ## 1️⃣ Prerequisites
 
 Before learning React, make sure you know:
@@ -135,7 +173,7 @@ Before learning React, make sure you know:
 
 ---
 
-## 🛠 VS Code Plugins
+## 🛠 Developer Tools
 
 - **Prettier** – Code formatter plugin → [Prettier Docs](https://prettier.io)
 - ESLint – Linting for code quality

@@ -130,7 +130,3 @@ Before learning React, make sure you know:
 * Blog app (routing + forms)
 * E-commerce cart (context/redux)
 * Dashboard (React Query + charts + auth)
-
----
-
-🔥 **Tip:** Don’t try to learn everything at once — build projects and learn new concepts as you go.
